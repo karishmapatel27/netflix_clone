@@ -13,7 +13,7 @@ npm run start
 You can find the server runing on http://localhost:3000
 
 ## CSS
-In this projct I have used CSS to style the website.
+In this project I have used CSS to style the website.
 
 ## Dependencies 
 - [x] axios 
