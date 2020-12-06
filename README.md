@@ -18,7 +18,6 @@ In this project I have used CSS to style the website.
 ## Dependencies 
 - [x] axios 
 - [x] movie-trailer
-- [x] authenticare
 - [x] react-youtube
 
 
